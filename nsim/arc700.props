@@ -12,7 +12,6 @@ nsim_isa_sat=1
 nsim_isa_mpy32=1
 nsim_isa_enable_timer_0=1
 nsim_isa_enable_timer_1=1
-nsim_isa_host_timer=1
 isa_counters=1
 nsim_isa_pct_counters=8
 nsim_isa_pct_size=48

@@ -9,7 +9,6 @@ nsim_isa_code_density_option=2
 nsim_isa_enable_timer_0=1
 nsim_isa_enable_timer_1=1
 nsim_isa_rtc_option=1
-nsim_isa_host_timer=1
 icache=65536,64,4,0
 dcache=65536,64,2,0
 mmu_version=4
