@@ -17,3 +17,10 @@ mmu_address_space=32
 nsim_mem-dev=uart0,kind=dwuart,base=0xf0000000,irq=24
 nsim_isa_number_of_interrupts=32
 nsim_isa_number_of_external_interrupts=32
+nsim_isa_has_fp=1
+nsim_isa_fp_dds_option=1
+nsim_isa_fp_div_option=1
+nsim_isa_fp_dp_option=1
+nsim_isa_fp_hp_option=1
+nsim_isa_fp_vec_option=1
+nsim_isa_fp_wide_option=1
